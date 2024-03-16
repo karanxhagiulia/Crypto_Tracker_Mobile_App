@@ -1,0 +1,7 @@
+{
+  "name": "CryptoTrackerApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
